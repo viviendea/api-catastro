@@ -1,0 +1,19 @@
+{
+  "name": "ibonkonesa/catastro-es",
+  "type": "library",
+  "description": "Wrapper to use Spanish catastro WS",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ibon Conesa",
+      "email": "ibon.konesa@gmail.com",
+      "homepage": "https://ibon.dev",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "IbonKonesa\\Catastro\\": "src/"
+    }
+  }
+}
