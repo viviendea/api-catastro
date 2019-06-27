@@ -1,5 +1,6 @@
 {
   "name": "ibonkonesa/catastro-es",
+  "version": "1.0",
   "type": "library",
   "description": "Catastro API",
   "license": "MIT",
