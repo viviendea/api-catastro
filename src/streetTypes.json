@@ -1,0 +1,1335 @@
+[
+  {
+    "code": "AC",
+    "name": "ACCES"
+  },
+  {
+    "code": "AC",
+    "name": "ACCESO"
+  },
+  {
+    "code": "AE",
+    "name": "ACEQUIA"
+  },
+  {
+    "code": "AA",
+    "name": "ACERA"
+  },
+  {
+    "code": "AL",
+    "name": "ALAMEDA"
+  },
+  {
+    "code": "CT",
+    "name": "ALDAPA"
+  },
+  {
+    "code": "AD",
+    "name": "ALDEA"
+  },
+  {
+    "code": "AQ",
+    "name": "ALQUERIA"
+  },
+  {
+    "code": "AT",
+    "name": "ALTO"
+  },
+  {
+    "code": "AN",
+    "name": "ANDADOR"
+  },
+  {
+    "code": "AG",
+    "name": "ANGOSTA"
+  },
+  {
+    "code": "AO",
+    "name": "APEADEIRO"
+  },
+  {
+    "code": "AO",
+    "name": "APEADERO"
+  },
+  {
+    "code": "AP",
+    "name": "APARTAMENTS"
+  },
+  {
+    "code": "AP",
+    "name": "APARTAMENTOS"
+  },
+  {
+    "code": "AB",
+    "name": "ARBOLEDA"
+  },
+  {
+    "code": "AR",
+    "name": "ARRABAL"
+  },
+  {
+    "code": "AY",
+    "name": "ERREKA"
+  },
+  {
+    "code": "AY",
+    "name": "ARROYO"
+  },
+  {
+    "code": "AS",
+    "name": "ASSEGADOR"
+  },
+  {
+    "code": "AJ",
+    "name": "ATAJO"
+  },
+  {
+    "code": "AJ",
+    "name": "ATALL"
+  },
+  {
+    "code": "AJ",
+    "name": "ATALLO"
+  },
+  {
+    "code": "AZ",
+    "name": "ATZUCAT"
+  },
+  {
+    "code": "AU",
+    "name": "AUTOPISTA"
+  },
+  {
+    "code": "AI",
+    "name": "AUTOVIA"
+  },
+  {
+    "code": "BO",
+    "name": "AUZO"
+  },
+  {
+    "code": "BA",
+    "name": "AUZOTEGI"
+  },
+  {
+    "code": "BO",
+    "name": "AUZUNEA"
+  },
+  {
+    "code": "AV",
+    "name": "AV"
+  },
+  {
+    "code": "AV",
+    "name": "AVENIDA"
+  },
+  {
+    "code": "AV",
+    "name": "AVINGUDA"
+  },
+  {
+    "code": "AI",
+    "name": "AUTOVIA"
+  },
+  {
+    "code": "BN",
+    "name": "BALNEARIO"
+  },
+  {
+    "code": "BA",
+    "name": "BARRIADA"
+  },
+  {
+    "code": "BO",
+    "name": "BARRI"
+  },
+  {
+    "code": "BO",
+    "name": "BARRIO"
+  },
+  {
+    "code": "BJ",
+    "name": "BAIXADA"
+  },
+  {
+    "code": "BE",
+    "name": "BELENA"
+  },
+  {
+    "code": "VI",
+    "name": "BIDE"
+  },
+  {
+    "code": "GL",
+    "name": "BIDEBIETA"
+  },
+  {
+    "code": "BJ",
+    "name": "BAJADA"
+  },
+  {
+    "code": "BL",
+    "name": "BLOC"
+  },
+  {
+    "code": "BL",
+    "name": "BLOQUE"
+  },
+  {
+    "code": "BQ",
+    "name": "BARRANQUIL"
+  },
+  {
+    "code": "BR",
+    "name": "BARRANCO"
+  },
+  {
+    "code": "BD",
+    "name": "BARREDUELA"
+  },
+  {
+    "code": "BZ",
+    "name": "BRAZAL"
+  },
+  {
+    "code": "BS",
+    "name": "BASERRIA"
+  },
+  {
+    "code": "BV",
+    "name": "BULEVAR"
+  },
+  {
+    "code": "BV",
+    "name": "BULEVAR"
+  },
+  {
+    "code": "C ",
+    "name": "C"
+  },
+  {
+    "code": "KH",
+    "name": "CMNO HONDO"
+  },
+  {
+    "code": "KN",
+    "name": "CMNO NUEVO"
+  },
+  {
+    "code": "KV",
+    "name": "CMNO VIEJO"
+  },
+  {
+    "code": "C/",
+    "name": "C/"
+  },
+  {
+    "code": "CÑ",
+    "name": "CAÑADA"
+  },
+  {
+    "code": "CL",
+    "name": "CALLE"
+  },
+  {
+    "code": "CM",
+    "name": "CAMI"
+  },
+  {
+    "code": "CM",
+    "name": "CAMIN"
+  },
+  {
+    "code": "CP",
+    "name": "CAMPA"
+  },
+  {
+    "code": "CG",
+    "name": "CAMPING"
+  },
+  {
+    "code": "CP",
+    "name": "CAMPO"
+  },
+  {
+    "code": "KÑ",
+    "name": "CANTIÑO"
+  },
+  {
+    "code": "CA",
+    "name": "CANAL"
+  },
+  {
+    "code": "CQ",
+    "name": "CANTON"
+  },
+  {
+    "code": "QT",
+    "name": "CANTINA"
+  },
+  {
+    "code": "CQ",
+    "name": "CANTO"
+  },
+  {
+    "code": "QA",
+    "name": "CANTERA"
+  },
+  {
+    "code": "QD",
+    "name": "CARRERADA"
+  },
+  {
+    "code": "CL",
+    "name": "CARRER"
+  },
+  {
+    "code": "VR",
+    "name": "CARRERANY"
+  },
+  {
+    "code": "CS",
+    "name": "CASA"
+  },
+  {
+    "code": "CB",
+    "name": "COBERTIZO"
+  },
+  {
+    "code": "CV",
+    "name": "CIRCUNVALACION"
+  },
+  {
+    "code": "QN",
+    "name": "CANELLA"
+  },
+  {
+    "code": "CE",
+    "name": "CERRO"
+  },
+  {
+    "code": "CH",
+    "name": "CHALET"
+  },
+  {
+    "code": "CI",
+    "name": "CINTURO"
+  },
+  {
+    "code": "CI",
+    "name": "CINTURON"
+  },
+  {
+    "code": "CI",
+    "name": "CINYELL"
+  },
+  {
+    "code": "CV",
+    "name": "CIRCUNVALACION"
+  },
+  {
+    "code": "CU",
+    "name": "CALLEJUELA"
+  },
+  {
+    "code": "CN",
+    "name": "CONJUNTO"
+  },
+  {
+    "code": "CY",
+    "name": "CALEYA"
+  },
+  {
+    "code": "CJ",
+    "name": "CALLEJA"
+  },
+  {
+    "code": "CK",
+    "name": "CALLEJON"
+  },
+  {
+    "code": "KZ",
+    "name": "CALLIZO"
+  },
+  {
+    "code": "KY",
+    "name": "CALEYON"
+  },
+  {
+    "code": "CM",
+    "name": "CAMIÑO"
+  },
+  {
+    "code": "CM",
+    "name": "CAMINET"
+  },
+  {
+    "code": "CM",
+    "name": "CAMINO"
+  },
+  {
+    "code": "QN",
+    "name": "CANELLA"
+  },
+  {
+    "code": "CW",
+    "name": "CONVENT"
+  },
+  {
+    "code": "CW",
+    "name": "CONVENTO"
+  },
+  {
+    "code": "CO",
+    "name": "COLONIA"
+  },
+  {
+    "code": "QJ",
+    "name": "COMPLEJO"
+  },
+  {
+    "code": "KP",
+    "name": "COOPERATIVA"
+  },
+  {
+    "code": "KO",
+    "name": "COSTA"
+  },
+  {
+    "code": "KR",
+    "name": "COSTERA"
+  },
+  {
+    "code": "KA",
+    "name": "CARRERA"
+  },
+  {
+    "code": "CC",
+    "name": "CRUCEIRO"
+  },
+  {
+    "code": "RL",
+    "name": "CORRILLO"
+  },
+  {
+    "code": "QR",
+    "name": "CARRERO"
+  },
+  {
+    "code": "QL",
+    "name": "CORRAL"
+  },
+  {
+    "code": "QL",
+    "name": "CORRALO"
+  },
+  {
+    "code": "KD",
+    "name": "CORREDORCILLO"
+  },
+  {
+    "code": "KD",
+    "name": "CORREDOIRA"
+  },
+  {
+    "code": "KD",
+    "name": "CORREDERA"
+  },
+  {
+    "code": "KD",
+    "name": "CORREDOR"
+  },
+  {
+    "code": "KL",
+    "name": "CARRIL"
+  },
+  {
+    "code": "QO",
+    "name": "CORRALILLO"
+  },
+  {
+    "code": "RR",
+    "name": "CORRIOL"
+  },
+  {
+    "code": "SD",
+    "name": "CORRIOL"
+  },
+  {
+    "code": "QI",
+    "name": "CARRETIL"
+  },
+  {
+    "code": "KT",
+    "name": "CORTIJO"
+  },
+  {
+    "code": "CS",
+    "name": "CASERIO"
+  },
+  {
+    "code": "KS",
+    "name": "COSTANILLA"
+  },
+  {
+    "code": "CR",
+    "name": "CARRETERA"
+  },
+  {
+    "code": "QE",
+    "name": "CARRETERIN"
+  },
+  {
+    "code": "CD",
+    "name": "CUADRA"
+  },
+  {
+    "code": "QV",
+    "name": "CUEVA/S"
+  },
+  {
+    "code": "CT",
+    "name": "CUESTA"
+  },
+  {
+    "code": "CX",
+    "name": "CALEXON"
+  },
+  {
+    "code": "CZ",
+    "name": "CALZADA"
+  },
+  {
+    "code": "CÇ",
+    "name": "CALZADAS"
+  },
+  {
+    "code": "DM",
+    "name": "DEMARCAÇIO"
+  },
+  {
+    "code": "DM",
+    "name": "DEMARCACION"
+  },
+  {
+    "code": "DH",
+    "name": "DEHESA"
+  },
+  {
+    "code": "DS",
+    "name": "DISEMINADO"
+  },
+  {
+    "code": "DS",
+    "name": "DISSEMINAT"
+  },
+  {
+    "code": "DR",
+    "name": "DREÇERA"
+  },
+  {
+    "code": "ED",
+    "name": "EDIFICIO/S"
+  },
+  {
+    "code": "EI",
+    "name": "EIRADO"
+  },
+  {
+    "code": "ER",
+    "name": "EMPRESA"
+  },
+  {
+    "code": "EP",
+    "name": "ENTRADA"
+  },
+  {
+    "code": "PZ",
+    "name": "ENPARANTZA"
+  },
+  {
+    "code": "AR",
+    "name": "ERREBAL"
+  },
+  {
+    "code": "CR",
+    "name": "ERREPIDE"
+  },
+  {
+    "code": "VG",
+    "name": "ERRIBERA"
+  },
+  {
+    "code": "EC",
+    "name": "ESCALA/S"
+  },
+  {
+    "code": "EC",
+    "name": "ESCALERA/S"
+  },
+  {
+    "code": "EW",
+    "name": "ESCALINATA"
+  },
+  {
+    "code": "ES",
+    "name": "ESPALDA"
+  },
+  {
+    "code": "EG",
+    "name": "ESPIGO"
+  },
+  {
+    "code": "EN",
+    "name": "ESTACIO"
+  },
+  {
+    "code": "EN",
+    "name": "ESTACION"
+  },
+  {
+    "code": "EX",
+    "name": "ESTRADA"
+  },
+  {
+    "code": "AV",
+    "name": "ETORBIDEA"
+  },
+  {
+    "code": "GR",
+    "name": "ETXADI"
+  },
+  {
+    "code": "CK",
+    "name": "ETXARTE"
+  },
+  {
+    "code": "EZ",
+    "name": "EXPLANADA"
+  },
+  {
+    "code": "EM",
+    "name": "EXTRAMUROS"
+  },
+  {
+    "code": "ET",
+    "name": "EXTRARRADIO"
+  },
+  {
+    "code": "FD",
+    "name": "FALDA"
+  },
+  {
+    "code": "FC",
+    "name": "FABRICA"
+  },
+  {
+    "code": "FN",
+    "name": "FINCA"
+  },
+  {
+    "code": "GV",
+    "name": "GRAN VIA"
+  },
+  {
+    "code": "AT",
+    "name": "GAIN"
+  },
+  {
+    "code": "GA",
+    "name": "GALERIA"
+  },
+  {
+    "code": "GZ",
+    "name": "GALLIZO"
+  },
+  {
+    "code": "SB",
+    "name": "GORABIDE"
+  },
+  {
+    "code": "GJ",
+    "name": "GRANJA"
+  },
+  {
+    "code": "GR",
+    "name": "GRUP"
+  },
+  {
+    "code": "GR",
+    "name": "GRUPO/S"
+  },
+  {
+    "code": "GL",
+    "name": "GLORIETA"
+  },
+  {
+    "code": "HG",
+    "name": "HEGI"
+  },
+  {
+    "code": "HP",
+    "name": "HIPODROMO"
+  },
+  {
+    "code": "AV",
+    "name": "HIRIBIDEA"
+  },
+  {
+    "code": "PY",
+    "name": "HONDARTZA"
+  },
+  {
+    "code": "HY",
+    "name": "HOYA"
+  },
+  {
+    "code": "IL",
+    "name": "ILLA"
+  },
+  {
+    "code": "IN",
+    "name": "INDA"
+  },
+  {
+    "code": "JR",
+    "name": "JARDI"
+  },
+  {
+    "code": "JR",
+    "name": "JARDIN"
+  },
+  {
+    "code": "JR",
+    "name": "JARDINS"
+  },
+  {
+    "code": "JR",
+    "name": "JARDINES"
+  },
+  {
+    "code": "ML",
+    "name": "KAI"
+  },
+  {
+    "code": "CL",
+    "name": "KALEA"
+  },
+  {
+    "code": "CJ",
+    "name": "KARRIK"
+  },
+  {
+    "code": "KA",
+    "name": "KARRERA"
+  },
+  {
+    "code": "CL",
+    "name": "KARRIKA"
+  },
+  {
+    "code": "KO",
+    "name": "KOSTA"
+  },
+  {
+    "code": "KL",
+    "name": "KARRIL"
+  },
+  {
+    "code": "LA",
+    "name": "LAGO"
+  },
+  {
+    "code": "AJ",
+    "name": "LASTERBIDE"
+  },
+  {
+    "code": "LD",
+    "name": "LADERA"
+  },
+  {
+    "code": "LG",
+    "name": "LEKU"
+  },
+  {
+    "code": "LL",
+    "name": "LLANURA"
+  },
+  {
+    "code": "LG",
+    "name": "LLOC"
+  },
+  {
+    "code": "LM",
+    "name": "LOMA"
+  },
+  {
+    "code": "LO",
+    "name": "LOMO"
+  },
+  {
+    "code": "JR",
+    "name": "LORATEGIAK"
+  },
+  {
+    "code": "JR",
+    "name": "LORATEGI"
+  },
+  {
+    "code": "LG",
+    "name": "LUGAR"
+  },
+  {
+    "code": "MA",
+    "name": "MALECON"
+  },
+  {
+    "code": "MS",
+    "name": "MASIA/S"
+  },
+  {
+    "code": "MZ",
+    "name": "MAZO"
+  },
+  {
+    "code": "MT",
+    "name": "MENDI"
+  },
+  {
+    "code": "MC",
+    "name": "MERCADO"
+  },
+  {
+    "code": "MC",
+    "name": "MERCAT"
+  },
+  {
+    "code": "MD",
+    "name": "MIRADOR"
+  },
+  {
+    "code": "ML",
+    "name": "MOLL"
+  },
+  {
+    "code": "MT",
+    "name": "MONTE"
+  },
+  {
+    "code": "MD",
+    "name": "MIRADOR"
+  },
+  {
+    "code": "MO",
+    "name": "MONASTERIO"
+  },
+  {
+    "code": "ML",
+    "name": "MUELLE"
+  },
+  {
+    "code": "NV",
+    "name": "NAVE/S"
+  },
+  {
+    "code": "UN",
+    "name": "NUCLEO"
+  },
+  {
+    "code": "ND",
+    "name": "NUDO"
+  },
+  {
+    "code": "PY",
+    "name": "ONDARTZA"
+  },
+  {
+    "code": "PP",
+    "name": "PAGO"
+  },
+  {
+    "code": "PC",
+    "name": "PALACIO"
+  },
+  {
+    "code": "P ",
+    "name": "PANTANO"
+  },
+  {
+    "code": "PQ",
+    "name": "PARC"
+  },
+  {
+    "code": "PQ",
+    "name": "PARKE"
+  },
+  {
+    "code": "PF",
+    "name": "PARTICULAR"
+  },
+  {
+    "code": "PA",
+    "name": "PAS"
+  },
+  {
+    "code": "PJ",
+    "name": "PASAIA"
+  },
+  {
+    "code": "PS",
+    "name": "PASEABIDE"
+  },
+  {
+    "code": "PS",
+    "name": "PASEALEKUA"
+  },
+  {
+    "code": "PS",
+    "name": "PASEO"
+  },
+  {
+    "code": "PS",
+    "name": "PASEO"
+  },
+  {
+    "code": "PS",
+    "name": "PASSEIG"
+  },
+  {
+    "code": "PK",
+    "name": "PATIO"
+  },
+  {
+    "code": "PB",
+    "name": "POBLADO"
+  },
+  {
+    "code": "PB",
+    "name": "PUEBLO"
+  },
+  {
+    "code": "PV",
+    "name": "PUJADA"
+  },
+  {
+    "code": "PÇ",
+    "name": "PASSADIS"
+  },
+  {
+    "code": "PG",
+    "name": "PG"
+  },
+  {
+    "code": "PG",
+    "name": "POLIGONO INDUST"
+  },
+  {
+    "code": "PN",
+    "name": "PINAR"
+  },
+  {
+    "code": "PI",
+    "name": "PISTA"
+  },
+  {
+    "code": "SU",
+    "name": "PUJADA, SUBIDA"
+  },
+  {
+    "code": "PL",
+    "name": "PL"
+  },
+  {
+    "code": "PW",
+    "name": "PLA"
+  },
+  {
+    "code": "PZ",
+    "name": "PLAÇA"
+  },
+  {
+    "code": "PY",
+    "name": "PLAYA"
+  },
+  {
+    "code": "PZ",
+    "name": "PLAZA"
+  },
+  {
+    "code": "PL",
+    "name": "PLACETA"
+  },
+  {
+    "code": "PX",
+    "name": "PASILLO"
+  },
+  {
+    "code": "PL",
+    "name": "PLAZUELA"
+  },
+  {
+    "code": "PT",
+    "name": "PUENTE"
+  },
+  {
+    "code": "PG",
+    "name": "POLIGONO"
+  },
+  {
+    "code": "PT",
+    "name": "PONT"
+  },
+  {
+    "code": "PT",
+    "name": "PONTE"
+  },
+  {
+    "code": "PO",
+    "name": "PORT"
+  },
+  {
+    "code": "PQ",
+    "name": "PARQUE"
+  },
+  {
+    "code": "PÑ",
+    "name": "PRACIÑA"
+  },
+  {
+    "code": "PE",
+    "name": "PARATGE"
+  },
+  {
+    "code": "PY",
+    "name": "PRAIA"
+  },
+  {
+    "code": "PE",
+    "name": "PARAJE"
+  },
+  {
+    "code": "PE",
+    "name": "PARAXE"
+  },
+  {
+    "code": "PZ",
+    "name": "PRAZA"
+  },
+  {
+    "code": "PR",
+    "name": "PROLONGACIO"
+  },
+  {
+    "code": "PR",
+    "name": "PROLONGACION"
+  },
+  {
+    "code": "PH",
+    "name": "PORTAL"
+  },
+  {
+    "code": "PH",
+    "name": "PORTICO"
+  },
+  {
+    "code": "PL",
+    "name": "PRAZUELA"
+  },
+  {
+    "code": "PJ",
+    "name": "PASAJE"
+  },
+  {
+    "code": "PJ",
+    "name": "PASAXE"
+  },
+  {
+    "code": "PX",
+    "name": "PASILLO"
+  },
+  {
+    "code": "PM",
+    "name": "PASEO MARITIMO"
+  },
+  {
+    "code": "PU",
+    "name": "PUERTA"
+  },
+  {
+    "code": "PD",
+    "name": "PARTIDA"
+  },
+  {
+    "code": "PJ",
+    "name": "PASSATGE"
+  },
+  {
+    "code": "PO",
+    "name": "PORTILLO"
+  },
+  {
+    "code": "PO",
+    "name": "PUERTILO"
+  },
+  {
+    "code": "PO",
+    "name": "PUERTO"
+  },
+  {
+    "code": "PÇ",
+    "name": "PASADIZO"
+  },
+  {
+    "code": "PL",
+    "name": "PLAZOLETA"
+  },
+  {
+    "code": "AR",
+    "name": "RABAL"
+  },
+  {
+    "code": "RA",
+    "name": "RACONADA"
+  },
+  {
+    "code": "RC",
+    "name": "RACO"
+  },
+  {
+    "code": "RM",
+    "name": "RAMAL"
+  },
+  {
+    "code": "RP",
+    "name": "RAMPA"
+  },
+  {
+    "code": "RP",
+    "name": "RAMPLA"
+  },
+  {
+    "code": "AR",
+    "name": "RAVAL"
+  },
+  {
+    "code": "RB",
+    "name": "RAMBLA"
+  },
+  {
+    "code": "RI",
+    "name": "RIBERA"
+  },
+  {
+    "code": "RN",
+    "name": "RINCONADA"
+  },
+  {
+    "code": "RC",
+    "name": "RINCON"
+  },
+  {
+    "code": "RT",
+    "name": "RENTO"
+  },
+  {
+    "code": "RS",
+    "name": "RESIDENCIAL"
+  },
+  {
+    "code": "AY",
+    "name": "RIERA"
+  },
+  {
+    "code": "RD",
+    "name": "RONDA"
+  },
+  {
+    "code": "RO",
+    "name": "ROTONDA"
+  },
+  {
+    "code": "RU",
+    "name": "RUA"
+  },
+  {
+    "code": "CU",
+    "name": "RUELA"
+  },
+  {
+    "code": "RE",
+    "name": "RUEIRO"
+  },
+  {
+    "code": "SA",
+    "name": "SANATORIO"
+  },
+  {
+    "code": "ST",
+    "name": "SANTUARIO"
+  },
+  {
+    "code": "AC",
+    "name": "SARBIDE"
+  },
+  {
+    "code": "SB",
+    "name": "SUBIDA"
+  },
+  {
+    "code": "SC",
+    "name": "SECTOR"
+  },
+  {
+    "code": "SD",
+    "name": "SENDER"
+  },
+  {
+    "code": "SR",
+    "name": "SENDERA"
+  },
+  {
+    "code": "SC",
+    "name": "SEKTORE"
+  },
+  {
+    "code": "SN",
+    "name": "SENDERO"
+  },
+  {
+    "code": "SD",
+    "name": "SENDA"
+  },
+  {
+    "code": "CM",
+    "name": "SERVENTIA"
+  },
+  {
+    "code": "GR",
+    "name": "TALDE"
+  },
+  {
+    "code": "PE",
+    "name": "TOKI"
+  },
+  {
+    "code": "TS",
+    "name": "TRANSITO"
+  },
+  {
+    "code": "TA",
+    "name": "TRASEIRA"
+  },
+  {
+    "code": "TA",
+    "name": "TRASERA"
+  },
+  {
+    "code": "TR",
+    "name": "TRAVESSERA"
+  },
+  {
+    "code": "TO",
+    "name": "TORRENTE"
+  },
+  {
+    "code": "TR",
+    "name": "TRAVESSIA"
+  },
+  {
+    "code": "TR",
+    "name": "TRAVESIA"
+  },
+  {
+    "code": "TV",
+    "name": "TRANSVERSAL"
+  },
+  {
+    "code": "UR",
+    "name": "URBANIZACION"
+  },
+  {
+    "code": "UR",
+    "name": "URBANITZACIO"
+  },
+  {
+    "code": "UR",
+    "name": "URBANIZAZIO"
+  },
+  {
+    "code": "VA",
+    "name": "VALLE"
+  },
+  {
+    "code": "VD",
+    "name": "VIADUCTE"
+  },
+  {
+    "code": "VD",
+    "name": "VIADUCTO"
+  },
+  {
+    "code": "VC",
+    "name": "VECINDARIO"
+  },
+  {
+    "code": "VG",
+    "name": "VEGA"
+  },
+  {
+    "code": "VE",
+    "name": "VEINAT"
+  },
+  {
+    "code": "VN",
+    "name": "VENELA"
+  },
+  {
+    "code": "VI",
+    "name": "VIA"
+  },
+  {
+    "code": "VL",
+    "name": "VIAL"
+  },
+  {
+    "code": "SN",
+    "name": "VIARANY"
+  },
+  {
+    "code": "V ",
+    "name": "VILLA"
+  },
+  {
+    "code": "VR",
+    "name": "VEREDA"
+  },
+  {
+    "code": "VV",
+    "name": "VIVIENDAS"
+  },
+  {
+    "code": "JR",
+    "name": "XARDIN"
+  },
+  {
+    "code": "ZE",
+    "name": "ZEARKALETA"
+  },
+  {
+    "code": "ZO",
+    "name": "ZONA"
+  },
+  {
+    "code": "PT",
+    "name": "ZUBI"
+  },
+  {
+    "code": "AB",
+    "name": "ZUHAIZTI"
+  },
+  {
+    "code": "AL",
+    "name": "ZUMARDI"
+  }
+]
+
