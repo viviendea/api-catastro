@@ -86,6 +86,32 @@ class Client
 
 
     /**
+     * @param string $region
+     * @param string $query
+     * @return array
+     */
+    public function getTownsByRegionName($region, $query = '')
+    {
+
+        $client = $this->getClient();
+        $data = $client->post('ConsultaMunicipio', ['form_params' => ['Provincia' => $region, 'Municipio' => $query]])->getBody();
+
+        $xml = simplexml_load_string($data);
+
+        $towns = [];
+
+        if ($xml->municipiero) {
+            foreach ($xml->municipiero->children() as $town) {
+                array_push($towns, new Town($town));
+            }
+        }
+
+        return $towns;
+
+    }
+
+
+    /**
      * @return array
      */
     public function getStreetTypes()
@@ -142,6 +168,43 @@ class Client
 
 
     /**
+     * @param string $region
+     * @param string $town
+     * @param StreetType|null $type
+     * @param string $query
+     * @return array
+     */
+    public function getStreetWithStrings($region, $town, StreetType $type = null, $query = '')
+    {
+
+        $client = $this->getClient();
+        $data = $client->post('ConsultaVia',
+            ['form_params' =>
+                [
+                    'Provincia' => $region,
+                    'Municipio' => $town,
+                    'TipoVia' => $type ? $type->code : '',
+                    'NombreVia' => $query
+                ]
+            ])->getBody();
+
+
+        $xml = simplexml_load_string($data);
+        $streets = [];
+
+        if ($xml->callejero) {
+            foreach ($xml->callejero->children() as $street) {
+                array_push($streets, new Street($street));
+            }
+
+        }
+
+        return $streets;
+
+    }
+
+
+    /**
      * @param Region $region
      * @param Town $town
      * @param Street $street
@@ -160,6 +223,50 @@ class Client
                     'Municipio' => $town->name,
                     'TipoVia' => $street->streetType,
                     'NomVia' => $street->name,
+                    'Numero' => $number
+                ]
+            ])->getBody();
+
+
+        $xml = simplexml_load_string($data);
+
+
+        $response = new \stdClass();
+
+        $response->numberExists = !$xml->lerr;
+        $response->nearNumbers = [];
+
+        if (!$response->numberExists && $xml->numerero) {
+            foreach ($xml->numerero->children() as $nump) {
+                array_push($response->nearNumbers, (integer)$nump->num->pnp);
+            }
+        }
+
+        return $response;
+
+    }
+
+
+    /**
+     * @param string $region
+     * @param string $town
+     * @param string $streetName
+     * @param string $streetType
+     * @param $number
+     * @return \stdClass
+     */
+    public function checkNumberWithStrings($region, $town, $street, $streetType, $number)
+    {
+
+        $client = $this->getClient();
+
+        $data = $client->post('ConsultaNumero',
+            ['form_params' =>
+                [
+                    'Provincia' => $region,
+                    'Municipio' => $town,
+                    'TipoVia' => $street,
+                    'NomVia' => $streetType,
                     'Numero' => $number
                 ]
             ])->getBody();
